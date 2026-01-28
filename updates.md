@@ -1,7 +1,7 @@
 # LabsUtility Update Logs
 📝Shows information on the latest updates and into the specifics of what we did to better the experience!<br></br>
 
-![Cool Banner](images/updatebanner.png)
+![Cool Banner](images/updatebanner.PNG)
 ## **[CURRENT]** Update: Beta 1.5
 This update includes the following changes:
 - 25 new interaction commands
