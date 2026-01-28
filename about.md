@@ -1,2 +1,2 @@
-![Test](images/test.png)
+![Test](images/tstbanner.png)
 # About the bot
