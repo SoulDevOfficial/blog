@@ -1,7 +1,7 @@
 # LabsUtility Update Logs
 📝Shows information on the latest updates and into the specifics of what we did to better the experience!<br></br>
 
-[Cool Banner](images/tstbanner.png)
+![Cool Banner](images/tstbanner.png)
 <br></br>
 ## **[CURRENT]** Update: Beta 1.5
 This update includes the following changes:
