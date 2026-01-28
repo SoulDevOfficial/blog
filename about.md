@@ -9,5 +9,5 @@ LabsUtility is a muli-use / purpose bot made for Discord! The bot contains comma
 - `Added as a authorized app to a user` <br/>
 ↳ (which allows for the user of many commands anywhere on Discord regardless if the server has the bot!)
 <br/>
-<br/>
+
 ### Using The Bot
