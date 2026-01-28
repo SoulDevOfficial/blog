@@ -10,4 +10,4 @@ LabsUtility is a muli-use / purpose bot made for Discord! The bot contains comma
 ↳ (which allows for the user of many commands anywhere on Discord regardless if the server has the bot!)
 <br/>
 
-### Using The Bot
+**Using The Bot**
